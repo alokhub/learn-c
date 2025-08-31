@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alok/Documents/alokhub/learn-c/variables-and-types/variables'
+relocations:     []
+...
